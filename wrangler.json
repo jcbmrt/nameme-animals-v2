@@ -1,0 +1,10 @@
+{
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "nameme-animals-db",
+      "database_id": "auto",
+      "migrations_dir": "./drizzle"
+    }
+  ]
+}
