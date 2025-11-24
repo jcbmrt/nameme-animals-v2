@@ -1,8 +1,8 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  basePath: '/animals',
-  assetPrefix: '/animals',
+  basePath: '/animal',
+  assetPrefix: '/animal',
   output: 'standalone',
   images: {
     unoptimized: true,
